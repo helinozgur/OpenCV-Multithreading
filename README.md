@@ -1,4 +1,5 @@
 # OpenCV-Multithreading
+OpenCV Multithreading konsunu anlattığım medium yazıma [buradan](https://helinozgur.medium.com/opencvde-%C3%A7oklu-i%CC%87%C5%9F-par%C3%A7ac%C4%B1klar%C4%B1-multithreads-ile-kodun-%C3%A7al%C4%B1%C5%9Fmas%C4%B1n%C4%B1-h%C4%B1zland%C4%B1rma-83aed171f496) ulaşabilirsiniz.
 ## Thread Nedir?
 İş parçacıkları(Threads) kısaca bir dizi talimatlardan oluşan akışlardır. Bunlar işletim sistemi tarafından çalıştırılmak üzere programlanabilir ve birden çok çekirdekte paralel olarak veya tek bir çekirdekte aynı anda çalıştırılabilir.
 ![image](https://user-images.githubusercontent.com/52162324/135287594-40aeeb2a-fedf-4a4a-8812-b79c084b34d7.png)
